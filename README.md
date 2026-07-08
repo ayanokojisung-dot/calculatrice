@@ -53,4 +53,4 @@ Permettre de réutiliser le résultat précédent.
 Ajouter les puissances et le modulo.
 Créer une interface graphique avec Tkinter.
 👤 Auteur
-Développé par Drag dans le cadre de son apprentissage de Python.
+Développé par Shadow dans le cadre de son apprentissage de Python.
